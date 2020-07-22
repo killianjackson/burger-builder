@@ -9,7 +9,6 @@ import Input from '../../../components/UI/Input/Input';
 import withErrorHandler from '../../../hoc/withErrorHandler/withErrorHandler';
 import * as actions from '../../../store/actions/index';
 import {updateObject, checkValidity} from '../../../shared/utility';
-import input from '../../../components/UI/Input/Input';
 
 class ContactData extends Component {
   state = {
