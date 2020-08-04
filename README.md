@@ -1,6 +1,8 @@
 # Burger Builder Application
 I made this application while completing a React course on Udemy. The course was a deep dive into React and covered many topics including Redux, React Router, hooks, networking, testing, and authentication. This application allows a user to sign up/in, build a burger order, place an order, and view order history.
 
+A production build of this app is live at https://react-my-burger-21563.web.app/
+
 ## Stack
 * Multi-page React app managed with React Router
 * Redux for state management
